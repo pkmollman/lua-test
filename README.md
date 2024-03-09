@@ -1,0 +1,1 @@
+# quick demo of embedded lua with a puppet-like file resource
